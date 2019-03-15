@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GW on GW</title>
-    <link>/</link>
+    <link>https://gmweaver.github.io/</link>
     <description>Recent content in GW on GW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,28 +12,19 @@
     
     <item>
       <title>Hierarchical Regularized Regression for Incorporating External Data in High-Dimensional Prediction Models</title>
-      <link>/talk/hierr/</link>
+      <link>https://gmweaver.github.io/talk/hierr/</link>
       <pubDate>Sun, 04 Nov 2018 12:00:00 -0800</pubDate>
       
-      <guid>/talk/hierr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hierarchical Regularized Regression for Estimation and Prediction with External Genomic Annotations</title>
-      <link>/publication/hierr/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/hierr/</guid>
+      <guid>https://gmweaver.github.io/talk/hierr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Page</title>
-      <link>/tutorial/example/</link>
+      <link>https://gmweaver.github.io/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
-      <guid>/tutorial/example/</guid>
+      <guid>https://gmweaver.github.io/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -49,48 +40,38 @@
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Traffic-Related Pollutants: Exposure and Health Effects Among Hispanic Children</title>
-      <link>/publication/hispanic-lung-chs/</link>
+      <link>https://gmweaver.github.io/publication/hispanic-lung-chs/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
       
-      <guid>/publication/hispanic-lung-chs/</guid>
+      <guid>https://gmweaver.github.io/publication/hispanic-lung-chs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Brief Introduction to Using R for High-Performance Computing</title>
-      <link>/talk/intro-hpc-r/</link>
+      <link>https://gmweaver.github.io/talk/intro-hpc-r/</link>
       <pubDate>Thu, 23 Mar 2017 12:00:00 -0700</pubDate>
       
-      <guid>/talk/intro-hpc-r/</guid>
+      <guid>https://gmweaver.github.io/talk/intro-hpc-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Macros to Manage Your Macros?</title>
-      <link>/publication/macros-sas/</link>
+      <link>https://gmweaver.github.io/publication/macros-sas/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
       
-      <guid>/publication/macros-sas/</guid>
+      <guid>https://gmweaver.github.io/publication/macros-sas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/example-slides/</link>
+      <link>https://gmweaver.github.io/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/slides/example-slides/</guid>
+      <guid>https://gmweaver.github.io/slides/example-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;

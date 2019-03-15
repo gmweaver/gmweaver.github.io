@@ -2,40 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on GW</title>
-    <link>/publication/</link>
+    <link>https://gmweaver.github.io/publication/</link>
     <description>Recent content in Publications on GW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gmweaver.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hierarchical Regularized Regression for Estimation and Prediction with External Genomic Annotations</title>
-      <link>/publication/hierr/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/hierr/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Traffic-Related Pollutants: Exposure and Health Effects Among Hispanic Children</title>
-      <link>/publication/hispanic-lung-chs/</link>
+      <link>https://gmweaver.github.io/publication/hispanic-lung-chs/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
       
-      <guid>/publication/hispanic-lung-chs/</guid>
+      <guid>https://gmweaver.github.io/publication/hispanic-lung-chs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Macros to Manage Your Macros?</title>
-      <link>/publication/macros-sas/</link>
+      <link>https://gmweaver.github.io/publication/macros-sas/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
       
-      <guid>/publication/macros-sas/</guid>
+      <guid>https://gmweaver.github.io/publication/macros-sas/</guid>
       <description></description>
     </item>
     
