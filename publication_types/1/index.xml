@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on GW</title>
-    <link>https://gmweaver.github.io/publication_types/1/</link>
+    <link>/publication_types/1/</link>
     <description>Recent content in 1 on GW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 01 Sep 2014 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://gmweaver.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Macros to Manage Your Macros?</title>
-      <link>https://gmweaver.github.io/publication/macros-sas/</link>
+      <link>/publication/macros-sas/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
       
-      <guid>https://gmweaver.github.io/publication/macros-sas/</guid>
+      <guid>/publication/macros-sas/</guid>
       <description></description>
     </item>
     

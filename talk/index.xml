@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on GW</title>
-    <link>https://gmweaver.github.io/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on GW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="https://gmweaver.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hierarchical Regularized Regression for Incorporating External Data in High-Dimensional Prediction Models</title>
-      <link>https://gmweaver.github.io/talk/hierr/</link>
+      <link>/talk/hierr/</link>
       <pubDate>Sun, 04 Nov 2018 12:00:00 -0800</pubDate>
       
-      <guid>https://gmweaver.github.io/talk/hierr/</guid>
+      <guid>/talk/hierr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Brief Introduction to Using R for High-Performance Computing</title>
-      <link>https://gmweaver.github.io/talk/intro-hpc-r/</link>
+      <link>/talk/intro-hpc-r/</link>
       <pubDate>Thu, 23 Mar 2017 12:00:00 -0700</pubDate>
       
-      <guid>https://gmweaver.github.io/talk/intro-hpc-r/</guid>
+      <guid>/talk/intro-hpc-r/</guid>
       <description></description>
     </item>
     

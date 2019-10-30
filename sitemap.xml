@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/talk/hierr/</loc>
+      <loc>/talk/hierr/</loc>
       <lastmod>2018-11-04T12:00:00-08:00</lastmod>
     </url>
     
@@ -12,7 +12,15 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/tutorial/example/</loc>
+      <loc>/publication/xrnet/</loc>
+      <lastmod>2018-11-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-07:00</lastmod>
     </url>
     
@@ -20,7 +28,7 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/tutorial/</loc>
+      <loc>/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00-07:00</lastmod>
     </url>
     
@@ -28,7 +36,15 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/publication/hispanic-lung-chs/</loc>
+      <loc>/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/hispanic-lung-chs/</loc>
       <lastmod>2018-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -36,7 +52,7 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/talk/intro-hpc-r/</loc>
+      <loc>/talk/intro-hpc-r/</loc>
       <lastmod>2017-03-23T12:00:00-07:00</lastmod>
     </url>
     
@@ -44,7 +60,7 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -52,7 +68,7 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/publication/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -60,7 +76,7 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -68,7 +84,7 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/publication/macros-sas/</loc>
+      <loc>/publication/macros-sas/</loc>
       <lastmod>2014-09-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -76,7 +92,7 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/publication_types/1/</loc>
+      <loc>/publication_types/1/</loc>
       <lastmod>2014-09-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -85,8 +101,8 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/publication_types/2/</loc>
-      <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-11-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -94,7 +110,7 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -102,7 +118,7 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/</loc>
+      <loc>/</loc>
       <lastmod>2017-10-15T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -111,7 +127,7 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/publication_types/</loc>
+      <loc>/publication_types/</loc>
       <lastmod>2014-09-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -120,7 +136,7 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/slides/</loc>
+      <loc>/slides/</loc>
       <priority>0</priority>
     </url>
     
@@ -128,14 +144,14 @@
     
     <url>
     
-      <loc>https://gmweaver.github.io/slides/example-slides/</loc>
+      <loc>/slides/example-slides/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://gmweaver.github.io/tags/</loc>
+      <loc>/tags/</loc>
       <priority>0</priority>
     </url>
     
